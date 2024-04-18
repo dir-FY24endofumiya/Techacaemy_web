@@ -1,0 +1,9 @@
+h1 {
+    margin: 40px;
+}
+
+/* p要素の文字色(color)を赤(red)にする */
+p {
+    color: #ff0000; /* 文字色 */
+    font-size: 24px; /* フォントサイズ */
+}

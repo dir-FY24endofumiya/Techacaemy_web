@@ -1,0 +1,21 @@
+header{
+	height: 50px;
+	background-color: #234743;
+}
+#wrapper{
+	height: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+#main{
+	background-color: #727438;
+	width: 34%;
+}
+aside{
+	background-color: #123456;
+	width: 33%;
+}
+footer{
+	height: 50px;
+	background-color: #ddddff;
+}

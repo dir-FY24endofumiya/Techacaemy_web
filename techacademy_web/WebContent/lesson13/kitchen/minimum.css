@@ -1,0 +1,11 @@
+p {
+    color: red;
+}
+.box {
+    margin: 50px;
+    border: 40px solid pink;
+    padding: 50px;
+    background-color: skyblue;
+    width: 100px;
+    height: 100px;
+}
